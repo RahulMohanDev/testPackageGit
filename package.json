@@ -1,6 +1,6 @@
 {
   "name": "test-pacakge-repo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a test package to test how npm works.",
   "main": "index.js",
   "type": "module",
