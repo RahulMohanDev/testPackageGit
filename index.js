@@ -1,3 +1,3 @@
 export function test() {
-  console.log("version1");
+  console.log("version2");
 }
